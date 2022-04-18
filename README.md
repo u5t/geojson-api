@@ -1,3 +1,11 @@
+# データクレジット
+### shinagawa_culture_sports_park.json
+→品川区オープンデータ 文化・スポーツ施設・公園(shinagawa_culture_sports_park.csv)
+
+https://catalog.data.metro.tokyo.lg.jp/dataset/t131091d0000000016/resource/bd07c1ef-65b9-4bfc-88bd-0e4771782cc4
+
+
+
 # GeoJSON API
 
 このリポジトリは、CSV フォーマットのデータを GitHub Actions で GeoJSON に変換し API として公開するためのテンプレートリポジトリです。
